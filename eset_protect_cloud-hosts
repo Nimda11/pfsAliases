@@ -1,3 +1,4 @@
+# From: https://support.eset.com/en/kb332-ports-and-addresses-required-to-use-your-eset-product-with-a-third-party-firewall
 eba.eset.com
 msp.eset.com
 identity.eset.com
@@ -13,7 +14,62 @@ epc-de-agent-proxy.germanywestcentral.cloudapp.azure.com
 edf.eset.com
 redirector.eset.systems
 repository.eset.com
+# ESET Push Notification Service
 epns.eset.com
+h1-epnsbroker01.eset.com
+h1-epnsbroker02.eset.com
+h1-epnsbroker03.eset.com
+h1-epnsbroker04.eset.com
+h1-epnsbroker05.eset.com
+h1-epnsbroker06.eset.com
+h1-epnsbroker07.eset.com
+h3-epnsbroker01.eset.com
+h3-epnsbroker02.eset.com
+h3-epnsbroker03.eset.com
+h3-epnsbroker04.eset.com
+h3-epnsbroker05.eset.com
+h3-epnsbroker06.eset.com
+h3-epnsbroker07.eset.com
+h5-epnsbroker01.eset.com
+h5-epnsbroker02.eset.com
+h5-epnsbroker03.eset.com
+h5-epnsbroker04.eset.com
+h5-epnsbroker05.eset.com
+h5-epnsbroker06.eset.com
+h5-epnsbroker07.eset.com
+# ESET LiveGuard Advanced
+r.edtd.eset.com
+d.edtd.eset.com
+# ESET DNS Load Balancers
+h1-f5lb01-s.eset.com
+h3-f5lb01-s.eset.com
+h5-f5lb01-s.eset.com
+h1-f5gtm01-s.eset.com
+h2-f5gtm01-s.eset.com
+h5-f5gtm01-s.eset.com
+# ESET Live Grid
+avcloud.e5.sk
+dnsj.e5.sk
+livegrid.eset.systems
+a.livegrid.eset.systems
+i1.livegrid.eset.systems
+i3.livegrid.eset.systems
+i4.livegrid.eset.systems
+i5.livegrid.eset.systems
+u.eset.com
+c.eset.com
+a.c.eset.com
+i1.c.eset.com
+i3.c.eset.com
+i4.c.eset.com
+i5.c.eset.com
+# Advanced Machine Learning
+h1-aidc01.eset.com
+h3-aidc01.eset.com
+h5-aidc01.eset.com
+augur.scanners.eset.systems
+
+
 eu.mdm.eset.com
 us.mdm.eset.com
 jp.mdm.eset.com
