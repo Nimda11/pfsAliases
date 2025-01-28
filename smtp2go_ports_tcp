@@ -1,0 +1,12 @@
+# From: https://support.smtp2go.com/hc/en-gb/articles/223087627-SMTP-Settings
+# TLS or no encryption >> available on ports
+25
+2525
+8025
+587
+80
+
+# SSL >> available on ports
+465
+8465
+443
