@@ -1,3 +1,9 @@
+# General ntp-hosts from https://support.ntp.org/Servers/NTPPoolServers
+0.pool.ntp.org
+1.pool.ntp.org
+2.pool.ntp.org
+3.pool.ntp.org
+
 # NA ntp-hosts from https://www.ntppool.org/zone/north-america
 0.north-america.pool.ntp.org
 1.north-america.pool.ntp.org
