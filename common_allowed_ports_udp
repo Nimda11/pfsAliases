@@ -1,14 +1,14 @@
 # QUIC (UDP) – Secure web traffic
 443
 # Google FCM (TCP/UDP) – Android push notifications
-5228-5230
+5228:5230
 # STUN (UDP) – NAT traversal for VoIP/WebRTC
 3478
 # Microsoft Teams/Skype (UDP) – Media transport
-3479-3481
+3479:3481
 # TURN over TLS (TCP/UDP) – Media relay
 5349
 # Zoom (UDP) – Media transport
-50000-50059
+50000:50059
 # Jitsi/WebRTC (UDP) – Video conference RTP
 10000
