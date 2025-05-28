@@ -1,19 +1,32 @@
-80        # HTTP (TCP) – Unencrypted web traffic
-443       # HTTPS (TCP) – Secure web traffic
-
-5228-5230 # Google FCM (TCP/UDP) – Android push notifications
-5223      # APNs (TCP) – Apple push (legacy persistent)
-2195      # APNs (TCP) – Apple push (legacy)
-2196      # APNs Feedback (TCP) – Apple push (legacy)
-443       # APNs (TCP) – Apple push (modern via HTTPS)
-
-587       # SMTP Submission (TCP) – Sending mail securely
-993       # IMAPS (TCP) – Secure mail retrieval
-995       # POP3S (TCP) – Secure mail retrieval
-
-3478      # STUN (UDP) – NAT traversal for VoIP/WebRTC
-3479-3481 # Microsoft Teams/Skype (UDP) – Media transport
-5349      # TURN over TLS (TCP/UDP) – Media relay
-50000-50059 # Zoom (UDP) – Media transport
-10000     # Jitsi/WebRTC (UDP) – Video conference RTP
-1935      # RTMP (TCP) – Video streaming (e.g., YouTube Live)
+# HTTP (TCP) – Unencrypted web traffic
+80
+# HTTPS (TCP) – Secure web traffic
+443
+# Google FCM (TCP/UDP) – Android push notifications
+5228-5230
+# APNs (TCP) – Apple push (legacy persistent)
+5223
+# APNs (TCP) – Apple push (legacy)
+2195
+# APNs Feedback (TCP) – Apple push (legacy)
+2196
+# APNs (TCP) – Apple push (modern via HTTPS)
+443
+# SMTP Submission (TCP) – Sending mail securely
+587
+# IMAPS (TCP) – Secure mail retrieval
+993
+# POP3S (TCP) – Secure mail retrieval
+995
+# STUN (UDP) – NAT traversal for VoIP/WebRTC
+3478
+# Microsoft Teams/Skype (UDP) – Media transport
+3479-3481
+# TURN over TLS (TCP/UDP) – Media relay
+534
+# Zoom (UDP) – Media transport
+50000-50059
+# Jitsi/WebRTC (UDP) – Video conference RTP
+10000
+# RTMP (TCP) – Video streaming (e.g., YouTube Live)
+1935
