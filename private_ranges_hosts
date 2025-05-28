@@ -1,0 +1,6 @@
+#Private Ranges as specified in RFC 1918 as well as CGNAT Subnets
+10.0.0.0/8
+172.16.0.0/12
+192.168.0.0/16
+#CGNAT as per RFC 6598
+100.64.0.0/10 
