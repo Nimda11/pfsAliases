@@ -1,0 +1,8 @@
+# Hosts Required for Huntress Manage/PSA Functionality
+# https://support.huntress.io/hc/en-us/articles/4404012757139-Required-Firewall-Settings-for-the-Huntress-Agents-Port-Exclusion-and-Allow-List#01HKWKC2MHPCP88TNP95X0WVPS
+
+#PSA
+52.4.130.244/32
+34.205.224.75/32
+184.72.103.99/32
+107.21.187.4/32
