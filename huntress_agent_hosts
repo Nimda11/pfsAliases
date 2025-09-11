@@ -1,0 +1,17 @@
+# Hosts that Agents need outbound access to
+# Per: https://support.huntress.io/hc/en-us/articles/4404012757139-Required-Firewall-Settings-for-the-Huntress-Agents-Port-Exclusion-and-Allow-List#h_01HKWK74NNCV7BAYM8EXF35PV5
+
+update.huntress.io
+huntress.io
+eetee.huntress.io
+eetee.huntresscdn.com
+huntresscdn.com
+huntress-installers.s3.amazonaws.com
+huntress-updates.s3.amazonaws.com
+huntress-uploads.s3.us-west-2.amazonaws.com
+huntress-user-uploads.s3.amazonaws.com
+huntress-rio.s3.amazonaws.com
+huntress-survey-results.s3.amazonaws.com
+notify.bugsnag.com
+sessions.bugsnag.com
+huntress-log-uploads.s3.amazonaws.com
