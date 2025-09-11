@@ -1,0 +1,40 @@
+# Rewst Hosts
+# Per: https://docs.rewst.help/security/security-policy
+
+# US
+13.58.15.14
+18.218.107.198
+3.139.170.31
+# Europe
+## UK
+18.132.221.226
+18.171.196.2
+3.9.62.134
+## DE
+3.67.166.23
+3.69.14.222
+3.76.128.23
+# Australia
+13.210.158.91
+13.237.143.171
+52.65.55.149
+
+# North American FQDN's
+app.rewst.io
+engine.rewst.io
+api.rewst.io
+
+# UK FQDN's
+app.eu.rewst.io
+engine.eu.rewst.io
+api.eu.rewst.io
+
+# DE FQDN's
+app.rewst.eu
+engine.rewst.eu
+api.rewst.eu
+
+# AUS FQDN's
+app.rewst.asia
+engine.rewst.asia
+api.rewst.asia
