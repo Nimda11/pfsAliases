@@ -1,4 +1,4 @@
-# From: https://docs.connectwise.com/ConnectWise_Business_Knowledge/200/Connectwise_Public_IP_Addresses#ConnectWise_Automate
+# From: https://docs.connectwise.com/ConnectWise_Business_Knowledge/200/Connectwise_Public_IP_Addresses
 # 09/11/2025
 
 # ConnectWise Cloud IPs and Support
@@ -186,3 +186,6 @@ IP Address
 ### AE
 162.10.222.228
 162.10.222.229
+
+# Test
+71.6.7.146
